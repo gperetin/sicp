@@ -1,3 +1,5 @@
+# SICP solutions
+
 ![SICP](https://mitpress.mit.edu/sicp/full-text/book/cover.jpg)
 
 This is a repository with my notes and solution to exercises from the
@@ -10,7 +12,7 @@ that chapter.
 If you find a bug or have a better solution to an exercise, I'd be happy to
 hear about it, please open an issue or a PR. :)
 
-==Trying out examples==
+## Trying out examples
 
 All examples are runnable using [Chicken Scheme](http://code.call-cc.org/).
 There are some differences from MIT Scheme which is used in the book, eg.
